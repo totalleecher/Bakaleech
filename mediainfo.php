@@ -1,5 +1,5 @@
 ﻿<?php
-include('rl_init.php');
+include('index..php');
 login_check();
 
 $page_title = 'Media Info Generator';
